@@ -8,6 +8,11 @@
 			"type": "stdio",
 			"command": "Enter",
 			"args": []
+		},
+		"my-mcp-server-2b213001": {
+			"type": "stdio",
+			"command": "Enter",
+			"args": []
 		}
 	},
 	"inputs": []
